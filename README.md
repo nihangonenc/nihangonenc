@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,  I'm Nihan Nur Gönenç</h1>
+<h1 align="center">Hi 👋,  I'm Nihan </h1>
 <!-- <h3 align="center">Jr. Full Stack Developer from Turkey</h3> -->
 
 - 📫 How to reach me **nnurgonenc@gmail.com**
